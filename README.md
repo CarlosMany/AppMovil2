@@ -38,3 +38,7 @@ También se elaboro el catálogo de requerimientos funcionales y no funcionales 
 6. UX
 
 Y de última instancia se realizo un video del maketado de la app (en la carpeta docs/videos)
+
+- Ir a la ruta y elegir el video
+- Dar click en "view raw"
+- El video se descargará atm
